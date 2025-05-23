@@ -13,4 +13,4 @@ We want to understand the factors that may contribute to student performance and
 - Does the preparation course for the test have an effect on student's scores?
 
 ## Main Dashboard
-[https://github.com/votene22/victor-s_portfolio/blob/main/dashboard.png](https://github.com/votene22/victor-s_portfolio/blob/main/dashboard.png)
+![image](https://github.com/user-attachments/assets/545f7fd5-e598-48b3-ad9a-39a17b395fda)
