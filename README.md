@@ -12,3 +12,5 @@ We want to understand the factors that may contribute to student performance and
 - Difference in test scores between genders
 - Does the preparation course for the test have an effect on student's scores?
 
+## Main Dashboard
+https://github.com/votene22/victor-s_portfolio/blob/main/dashboard.png
