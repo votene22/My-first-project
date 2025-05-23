@@ -14,3 +14,8 @@ We want to understand the factors that may contribute to student performance and
 
 ## Main Dashboard
 ![image](https://github.com/user-attachments/assets/545f7fd5-e598-48b3-ad9a-39a17b395fda)
+
+*Note*
+This project is meant to be a non-technical way of analysing data. There are no statistical methods used apart from the regression coefficient to measure the significance of the data.
+
+## Findings
