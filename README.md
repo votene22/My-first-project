@@ -41,7 +41,7 @@ Analysing this data made me understand the significance that income levels/paren
 Schools can't change parents' qualification, but they can:
 - provide extra help programmes such as mentoring for pupils whose families may struggle to give mentoring
 - offer parent workshops on study strategies so families can better understand how to teach their kids at home
-- A possibility of including breakfast clubs for children, ensuring children arrive to school early and start their day refreshed and ready for the day
+- possibility of including breakfast clubs for children, ensuring children arrive to school early and start their day refreshed and ready for the day
 
 ## Limitations
 - The old saying of correlation does not equal causation so these relationships are not a proof of impact
