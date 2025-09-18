@@ -1,4 +1,4 @@
-# victor's first excel project
+# Cleaning data using excel and using pivot tables and charts to perform EDA on student performance
 ## Understanding student performance
 We want to understand the factors that may contribute to student performance and make an informed decision on what to do to improve a student's performance.
 *Note*
